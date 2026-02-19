@@ -16,19 +16,27 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate light theme SVG
+      # Step 1: gerar SVG para o tema claro (snake preta)
+      - name: Generate light theme SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=000000&color_background=DDDDDD
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=000000
 
-      - name: generate dark theme SVG
+      # Step 2: gerar SVG para o tema escuro (grid GitHub dark + snake branca)
+      - name: Generate dark theme SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake-dark.svg?color_snake=FFFFFF&color_background=1B1F23
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push SVGs to output branch
+      # Step 3: forçar a cobrinha branca no SVG dark usando sed
+      - name: Force snake white in dark SVG
+        run: |
+          sed -i 's/fill="#000000"/fill="#FFFFFF"/g' dist/github-contribution-grid-snake-dark.svg
+
+      # Step 4: push SVGs para o branch de saída
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
