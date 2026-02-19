@@ -33,7 +33,9 @@ jobs:
       # Step 3: forçar a cobrinha branca no SVG dark usando sed
       - name: Force snake white in dark SVG
         run: |
-          sed -i 's/fill="#000000"/fill="#FFFFFF"/g' dist/github-contribution-grid-snake-dark.svg
+          # Substitui apenas a cor da cobrinha (geralmente identificada como uma forma com a classe ou ID 'snake')
+          sed -i 's/<path.*id="snake".*fill="#000000"/<path id="snake" fill="#FFFFFF"/g' dist/github-contribution-grid-snake-dark.svg
+
 
       # Step 4: push SVGs para o branch de saída
       - name: Push SVGs to output branch
