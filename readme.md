@@ -15,6 +15,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header" />
 </picture>
 
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Fernando S. Moraes</b>
+  </samp>
+</div>
+
 <br>
 
 ##
