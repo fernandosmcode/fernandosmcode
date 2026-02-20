@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>`D e v e l o p e r`</b>
   <samp>
       <br>
       Hi there! I'm <b>Fernando S. Moraes</b>
