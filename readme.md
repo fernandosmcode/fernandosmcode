@@ -34,7 +34,7 @@
 
 <!-- TEXTO -->
 <div align="center">
-  <b>`D e v e l o p e r`</b>
+  <b>D e v e l o p e r</b>
   <samp>
     <br>
     Hi there! I'm <b>Fernando S. Moraes</b>
