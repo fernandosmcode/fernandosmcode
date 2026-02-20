@@ -16,7 +16,22 @@
 </picture>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/jQg3iho.png" />
+  <picture>
+    <!-- TEMA ESCURO: SVG com cor branca -->
+    <source 
+      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/branco.svg" 
+      media="(prefers-color-scheme: dark)"
+    />
+    
+    <!-- TEMA CLARO: SVG com cor preta -->
+    <source 
+      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/preto.svg" 
+      media="(prefers-color-scheme: light)"
+    />
+    
+    <!-- Fallback -->
+    <img height="150" src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/branco.svg" />
+  </picture>
 </div>
 
 <div align="center">
