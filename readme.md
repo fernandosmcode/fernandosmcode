@@ -1,13 +1,13 @@
 <picture>
   <source 
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=160&section=header&text=Fernando S. M.&fontSize=38&fontColor=ffffff"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=160&section=header
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=160&section=header&text=Fernando S. M.&fontSize=38&fontColor=2F81F7"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=160&section=header
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=160&section=header&text=CaioXDeveloper&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=160&section=header />
 </picture>
 
 <picture align="center">
