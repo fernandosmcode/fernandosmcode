@@ -17,20 +17,20 @@
 
 <div align="center">
   <picture>
-    <!-- TEMA ESCURO: SVG com cor branca -->
+    <!-- TEMA ESCURO: usa o branco.svg -->
     <source 
       srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/branco.svg" 
       media="(prefers-color-scheme: dark)"
     />
     
-    <!-- TEMA CLARO: SVG com cor preta -->
+    <!-- TEMA CLARO: usa o preto.svg -->
     <source 
       srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/preto.svg" 
       media="(prefers-color-scheme: light)"
     />
     
-    <!-- Fallback -->
-    <img height="150" src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/branco.svg" />
+    <!-- Fallback (padrão) - usa preto.svg -->
+    <img height="150" src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/preto.svg" />
   </picture>
 </div>
 
