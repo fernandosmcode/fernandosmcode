@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=123845" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=123845" /></p> 
 </div>
 
 <br>
