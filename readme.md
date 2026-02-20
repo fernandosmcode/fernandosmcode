@@ -15,6 +15,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header" />
 </picture>
 
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=123845" /></p> 
+</div>
+
+<br>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake-dark.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake.svg?v=1">
