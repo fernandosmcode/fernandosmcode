@@ -21,3 +21,19 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake.svg?v=1">
 </picture>
 
+<picture align="center">
+  <!-- TEMA ESCURO: onda branca no footer -->
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=110&section=footer"
+    media="(prefers-color-scheme: dark)"
+  />
+  
+  <!-- TEMA CLARO: onda preta no footer -->
+  <source 
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer"
+    media="(prefers-color-scheme: light)"
+  />
+  
+  <!-- Fallback -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer" />
+</picture>
