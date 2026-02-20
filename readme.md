@@ -20,15 +20,15 @@
     <!-- TEMA ESCURO -->
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/branco.svg"
+      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/branco.svg=v1"
     />
     <!-- TEMA CLARO -->
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/preto.svg"
+      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/preto.svg=v1"
     />
     <!-- FALLBACK -->
-    <img height="150" src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/preto.svg" />
+    <img height="150" src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/main/images/preto.svg=v1" />
   </picture>
 </div>
 
