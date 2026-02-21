@@ -14,6 +14,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=160&section=header" width="100%" />
 </picture>
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com/demo/?color=F7F7F7&width=520&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+
 <!-- LOGO -->
 <div align="center">
   <picture>
