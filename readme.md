@@ -86,6 +86,8 @@
 </div>
 </details>
 
+<br>
+
 <!-- VISUALIZAÇÕES -->
 <div align="center">
   <p align="center">
