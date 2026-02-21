@@ -31,6 +31,9 @@
             alt="Typing SVG" style="display:block; margin:0 auto;" />
     </picture>
 </div>
+
+##
+
 <br> <!-- VISUALIZAÇÕES -->
 <div align="center">
     <p align="center"> <img align="center"
