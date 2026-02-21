@@ -38,7 +38,11 @@
 <div align="center">
     <p align="center"> <img align="center"
             src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=123845" /> </p>
-</div> <br> <!-- COBRINHA -->
+</div> 
+
+##
+
+<br> <!-- COBRINHA -->
 <picture align="center">
     <source media="(prefers-color-scheme: dark)"
         srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake-dark.svg" />
