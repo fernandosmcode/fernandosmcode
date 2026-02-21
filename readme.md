@@ -54,10 +54,9 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge)](mailto:fernandosm.dev@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge)](https://discordapp.com/users/1464646187717103802)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge)]()
 
 </details>
 
