@@ -74,6 +74,7 @@
 <br>
 
 </details>
+
 ##
 <!-- VISUALIZAÇÕES -->
 <div align="center">
