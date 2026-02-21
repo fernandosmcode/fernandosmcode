@@ -45,7 +45,22 @@
 
 <br>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" alt="Typing SVG"/>
+  <picture>
+    <!-- TEMA ESCURO: texto branco/cinza claro -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!"
+    />
+    
+    <!-- TEMA CLARO: texto preto/cinza escuro -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D2D2D&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!"
+    />
+    
+    <!-- FALLBACK: tema escuro como padrão -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" alt="Typing SVG"/>
+  </picture>
 </div>
 
 <!-- VISUALIZAÇÕES -->
