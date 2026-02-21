@@ -41,24 +41,16 @@
   </samp>
 </div>
 
+
 <br>
 <div align="center" width="100%">
-  <picture>
-    <!-- TEMA ESCURO: texto branco -->
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!"
-    />
-    
-    <!-- TEMA CLARO: texto preto (agora com cor mais forte) -->
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!"
-    />
-    
-    <!-- FALLBACK -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" alt="Typing SVG"/>
-  </picture>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=FFFFFF&width=900&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=000000&width=900&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" />
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=FFFFFF&width=900&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" alt="Typing SVG"/>
+    </a>
+    </picture>
 </div>
 
 <!-- VISUALIZAÇÕES -->
