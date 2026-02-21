@@ -45,9 +45,11 @@
 <br>
 <div style="text-align:center; width:100%;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=FFFFFF&width=900&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=000000&width=900&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" />
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=FFFFFF&width=900&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" 
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=FFFFFF&width=900&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=000000&width=900&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&size=22&pause=1000&color=FFFFFF&width=900&center=true&lines=I+am+from+Brazil;I'm+a+Systems+Analysis+and+Development+student;Be+welcome!" 
          alt="Typing SVG" 
          style="display:block; margin:0 auto;" />
   </picture>
