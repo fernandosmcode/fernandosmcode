@@ -58,20 +58,6 @@
   [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge)](https://www.instagram.com/kamyzmedino/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge)](https://discord.gg/8kc8HqXVw2)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
-  
-</div>
-
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-</div>
-<br>
 
 </details>
 
