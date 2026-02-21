@@ -51,8 +51,6 @@
       Contact me:
     </b>
   </samp>
-  <br>
-  <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge)](mailto:fernandosm.dev@gmail.com)
   [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge)](https://discordapp.com/users/1464646187717103802)
