@@ -71,6 +71,7 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
   
 </div>
+</details>
 
 <br>
 <div style="text-align:center; width:100%;">
