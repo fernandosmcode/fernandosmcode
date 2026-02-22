@@ -1,9 +1,8 @@
 name: Atualizar Badge de Visitas
 
-# Roda a cada hora e também manualmente
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # roda todo início de hora
   workflow_dispatch:
 
 jobs:
@@ -14,18 +13,20 @@ jobs:
       # 1️⃣ Checar o repo
       - uses: actions/checkout@v3
 
-      # 2️⃣ Autenticar o git com GITHUB_TOKEN
-      - name: Autenticar git
-        run: git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+      # 2️⃣ Autenticar git usando GITHUB_TOKEN
+      - name: Configurar git com token
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3️⃣ Pegar visitas reais do Komarev
-      - name: Pegar número de visitas
+      # 3️⃣ Pegar número de visitas do Komarev
+      - name: Gerar JSON de visitas
         run: |
           VISITS=$(curl -s "https://komarev.com/ghpvc/?username=fernandosmcode" | tr -d '\n')
           echo "Número de visitas: $VISITS"
-          # Cria o JSON
           cat <<EOF > visitas.json
           {
             "schemaVersion": 1,
@@ -34,12 +35,11 @@ jobs:
             "color": "000000",
             "labelColor": "FFFFFF"
           }
+EOF
 
       # 4️⃣ Commit e push do JSON
       - name: Commit e push
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add visitas.json
           git commit -m "Atualiza badge de visitas" || echo "Nada para commitar"
           git push origin HEAD:main
