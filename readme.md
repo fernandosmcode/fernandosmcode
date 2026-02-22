@@ -56,7 +56,7 @@
 <br>
 
 <!-- CONTACT SECTION -->
-<div align="center">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
   <!-- Gmail -->
   <picture>
