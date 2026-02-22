@@ -56,7 +56,7 @@
 <br>
 
 <!-- CONTACT SECTION -->
-<div align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap: wrap;">
+<div align="center">
   
   <!-- Gmail -->
   <a href="mailto:fernandosm.dev@gmail.com" target="_blank" style="text-decoration: none;">
