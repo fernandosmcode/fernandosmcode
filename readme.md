@@ -61,17 +61,17 @@
   </picture>
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<div align="center"><br>
 
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://cdn.simpleicons.org/java/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/kotlin/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/spring/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/postgresql/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/mysql/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/redis/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/docker/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/linux/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/git/ffffff">
 
 </div>
 
