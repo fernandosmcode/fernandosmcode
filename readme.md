@@ -66,45 +66,21 @@
   <br>
 
   <!-- CONTACT SECTION -->
-  <div align="center">
+<div align="center">
 
-    <!-- Gmail -->
-    <a href="mailto:fernandosm.dev@gmail.com">
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000">
-        <source media="(prefers-color-scheme: light)"
-          srcset="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
-        <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
-      </picture>
-    </a>
+  <a href="mailto:fernandosm.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-    <!-- Discord -->
-    <a href="https://discordapp.com/users/1464646187717103802">
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=000000">
-        <source media="(prefers-color-scheme: light)"
-          srcset="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF">
-        <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFFFFF">
-      </picture>
-    </a>
+  <a href="https://discordapp.com/users/1464646187717103802">
+    <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/">
-      <picture>
-        <source media="(prefers-color-scheme: dark)"
-          srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000">
-        <source media="(prefers-color-scheme: light)"
-          srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
-        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF">
-      </picture>
-    </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-  </div>
-
-  <br>
-
+</div>
   <!-- VISUALIZAÇÕES -->
   <div align="center">
     <img
