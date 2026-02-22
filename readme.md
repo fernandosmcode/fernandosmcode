@@ -52,7 +52,15 @@
 <div align="center">
   <br>
   <br>
-  <img align="center" alt="Top Language" <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandosmcode&theme=github_dark" />
+  <img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandosmcode
+  &show_icons=true
+  &bg_color=000000
+  &title_color=FFFFFF
+  &text_color=FFFFFF
+  &icon_color=FFFFFF
+  &border_color=FFFFFF"
+/>
 </div>
 
 <br>
