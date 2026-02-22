@@ -183,15 +183,17 @@
   <!-- VISUALIZAÇÕES -->
 <div align="center">
   <picture>
-    <!-- Dark -->
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=ffffff" />
-    <!-- Light -->
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=000000" />
-    <!-- Fallback -->
-    <img src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=000000" />
-  </picture>
+  <!-- Dark mode: fundo branco, texto preto -->
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
+  
+  <!-- Light mode: fundo claro, texto preto -->
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
+
+  <!-- fallback -->
+  <img src="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
+</picture>
 </div>
 
 <!-- FOOTER -->
