@@ -62,16 +62,16 @@
 </div>
 
 <div align="center"><br>
-
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFFFFF">
-  <img width="40" src="https://cdn.simpleicons.org/kotlin/ffffff">
-  <img width="40" src="https://cdn.simpleicons.org/spring/ffffff">
-  <img width="40" src="https://cdn.simpleicons.org/postgresql/ffffff">
-  <img width="40" src="https://cdn.simpleicons.org/mysql/ffffff">
-  <img width="40" src="https://cdn.simpleicons.org/redis/ffffff">
-  <img width="40" src="https://cdn.simpleicons.org/docker/ffffff">
-  <img width="40" src="https://cdn.simpleicons.org/linux/ffffff">
-  <img width="40" src="https://cdn.simpleicons.org/git/ffffff">
+  
+<!-- Skills Branco -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="filter: brightness(0) invert(1)">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" style="filter: brightness(0) invert(1)">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" style="filter: brightness(0) invert(1)">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" style="filter: brightness(0) invert(1)">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="filter: brightness(0) invert(1)">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" style="filter: brightness(0) invert(1)">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="filter: brightness(0) invert(1)">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="filter: brightness(0) invert(1)">
 
 </div>
 
