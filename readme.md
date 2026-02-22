@@ -55,7 +55,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandosmcode&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"/>
 </div>
 
-<br>
+##
 
 <!-- MORE INFO -->
 <details align="center">
