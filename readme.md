@@ -49,6 +49,12 @@
   </picture>
 </div>
 
+<div align="center">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandosmcode&theme=zenburn"/>
+</div>
+
 <br>
 
 <!-- MORE INFO -->
