@@ -63,15 +63,15 @@
 
 <div align="center"><br>
   
-<!-- Skills Branco -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="filter: brightness(0) invert(1)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" style="filter: brightness(0) invert(1)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" style="filter: brightness(0) invert(1)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" style="filter: brightness(0) invert(1)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="filter: brightness(0) invert(1)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" style="filter: brightness(0) invert(1)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" style="filter: brightness(0) invert(1)">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="filter: brightness(0) invert(1)">
+<!-- Skills brancas -->
+<img src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23FFFFFF" width="40"/>
+<img src="https://devicon-website.vercel.app/api/kotlin/plain.svg?color=%23FFFFFF" width="40"/>
+<img src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%23FFFFFF" width="40"/>
+<img src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23FFFFFF" width="40"/>
+<img src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%23FFFFFF" width="40"/>
+<img src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23FFFFFF" width="40"/>
+<img src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23FFFFFF" width="40"/>
+<img src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23FFFFFF" width="40"/>
 
 </div>
 
