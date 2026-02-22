@@ -52,7 +52,7 @@
 <div align="center">
   <br>
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandosmcode&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=30363D"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandosmcode&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"/>
 </div>
 
 <br>
