@@ -183,16 +183,11 @@
   <!-- VISUALIZAÇÕES -->
 <div align="center">
   <picture>
-  <!-- Dark mode: fundo branco, texto preto -->
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
-  
-  <!-- Light mode: fundo claro, texto preto -->
+    srcset="https://img.shields.io/badge/Profile-Fernando-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
-
-  <!-- fallback -->
-  <img src="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=000000" />
+    srcset="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=24292F" />
+  <img src="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=24292F" />
 </picture>
 </div>
 
