@@ -52,7 +52,7 @@
 <div align="center">
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandosmcode&theme=zenburn"/>
+  <img align="center" alt="Top Language" <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandosmcode&theme=github_dark" />
 </div>
 
 <br>
