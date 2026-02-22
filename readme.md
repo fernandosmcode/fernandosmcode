@@ -57,40 +57,47 @@
 
 <!-- CONTACT SECTION -->
 <div align="center" style="display:flex; justify-content:center; gap:10px; flex-wrap: wrap;">
+  
   <!-- Gmail -->
-  <a href="mailto:fernandosm.dev@gmail.com" target="_blank">
+  <a href="mailto:fernandosm.dev@gmail.com" target="_blank" style="text-decoration: none;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
         srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&labelColor=000000" />
       <source media="(prefers-color-scheme: light)"
         srcset="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&labelColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&labelColor=FFFFFF" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&labelColor=FFFFFF" 
+           alt="Gmail" 
+           style="display:block; border:none;" />
     </picture>
   </a>
 
   <!-- Discord -->
-  <a href="https://discordapp.com/users/1464646187717103802" target="_blank">
+  <a href="https://discordapp.com/users/1464646187717103802" target="_blank" style="text-decoration: none;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
         srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&labelColor=000000" />
       <source media="(prefers-color-scheme: light)"
         srcset="https://img.shields.io/badge/Discord-000000?style=for-the-badge&labelColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&labelColor=FFFFFF" alt="Discord" />
+      <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&labelColor=FFFFFF" 
+           alt="Discord" 
+           style="display:block; border:none;" />
     </picture>
   </a>
 
   <!-- LinkedIn -->
-  <a href="#" target="_blank">
+  <a href="#" target="_blank" style="text-decoration: none;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
         srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&labelColor=000000" />
       <source media="(prefers-color-scheme: light)"
         srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=FFFFFF" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=FFFFFF" 
+           alt="LinkedIn" 
+           style="display:block; border:none;" />
     </picture>
   </a>
+
 </div>
-</details>
 
 <!-- VISUALIZAÇÕES -->
 <div align="center">
