@@ -34,7 +34,6 @@ jobs:
             "color": "000000",
             "labelColor": "FFFFFF"
           }
-EOF
 
       # 4️⃣ Commit e push do JSON
       - name: Commit e push
