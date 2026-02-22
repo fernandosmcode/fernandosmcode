@@ -75,20 +75,6 @@
 
   <br>
 
-  <!-- COBRINHA -->
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake.svg" />
-    <img
-      src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake.svg" />
-  </picture>
-
-</details>
-
-<br>
-
 <!-- FOOTER -->
 <picture align="center">
   <!-- DARK -->
@@ -100,3 +86,17 @@
   <!-- FALLBACK -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=110&section=footer" width="100%" />
 </picture>
+
+  <br>
+  
+<!-- COBRINHA -->
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake.svg" />
+    <img
+      src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</details>
