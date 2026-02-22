@@ -63,25 +63,91 @@
 
 <div align="center"><br>
   
-<!-- Skills brancas -->
-<img src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23FFFFFF" width="40"/>
-<img src="https://devicon-website.vercel.app/api/kotlin/plain.svg?color=%23FFFFFF" width="40"/>
-<img src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%23FFFFFF" width="40"/>
-<img src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23FFFFFF" width="40"/>
-<img src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%23FFFFFF" width="40"/>
-<img src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23FFFFFF" width="40"/>
-<img src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23FFFFFF" width="40"/>
-<img src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23FFFFFF" width="40"/>
+<!-- SKILLS COM TEMA CLARO/ESCURO -->
+<div align="center">
 
-<!-- Skills pretas -->
-<img src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23000000" width="40"/>
-<img src="https://devicon-website.vercel.app/api/kotlin/plain.svg?color=%23000000" width="40"/>
-<img src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%23000000" width="40"/>
-<img src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23000000" width="40"/>
-<img src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%23000000" width="40"/>
-<img src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23000000" width="40"/>
-<img src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23000000" width="40"/>
-<img src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23000000" width="40"/>
+  <!-- JAVA -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/java/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/java/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+  <!-- KOTLIN -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/kotlin/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/kotlin/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/kotlin/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+  <!-- SPRING -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/spring/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/spring/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+  <!-- POSTGRESQL -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+  <!-- MYSQL -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+  <!-- REDIS -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+  <!-- DOCKER -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+  <!-- GIT -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/git/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/git/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+  <!-- LINUX -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FFFFFF" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23000000" />
+    <img src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23000000" width="40"/>
+  </picture>
+
+</div>
 
 </div>
 
