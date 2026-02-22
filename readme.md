@@ -181,10 +181,30 @@
 ##
 
   <!-- VISUALIZAÇÕES -->
-  <div align="center">
-    <img
-      src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=123845" />
-  </div>
+<div align="center">
+  <!-- Tema claro -->
+  <img class="theme-badge" src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=000000" />
+
+  <!-- Tema escuro -->
+  <img class="theme-badge-dark" src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=ffffff" />
+</div>
+
+<style>
+  /* por padrão, esconde o tema escuro */
+  .theme-badge-dark {
+    display: none;
+  }
+
+  /* se o usuário tiver preferência por dark mode */
+  @media (prefers-color-scheme: dark) {
+    .theme-badge {
+      display: none;
+    }
+    .theme-badge-dark {
+      display: inline;
+    }
+  }
+</style>
 
 <!-- FOOTER -->
 <picture align="center">
