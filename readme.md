@@ -61,17 +61,11 @@
   </picture>
 </div>
 
-##
-
 <!-- MORE INFO -->
 <details align="center">
   <summary>
     <samp><b>More Info</b></samp>
    </summary>
-  
-<br>
-
-##
 
 <br>
 
@@ -102,7 +96,7 @@
       src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=123845" />
   </div>
 
-  <br>
+##
 
 <!-- FOOTER -->
 <picture align="center">
