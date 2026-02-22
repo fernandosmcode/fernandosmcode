@@ -63,7 +63,7 @@
 
 <div align="center"><br>
 
-  <img width="40" src="https://cdn.simpleicons.org/java/ffffff">
+  <img width="40" src="https://cdn.simpleicons.org/openjdk/ffffff">
   <img width="40" src="https://cdn.simpleicons.org/kotlin/ffffff">
   <img width="40" src="https://cdn.simpleicons.org/spring/ffffff">
   <img width="40" src="https://cdn.simpleicons.org/postgresql/ffffff">
