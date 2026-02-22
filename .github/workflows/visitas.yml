@@ -1,18 +1,28 @@
-name: Atualizar Badge de Visitas
+name: generate visitas badge
+
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 0 * * *"  # roda uma vez por dia à meia-noite UTC
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  update-badge:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
+      # 1️⃣ Check-out do repo
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Pegar número de visitas
+      # 2️⃣ Pegar número de visitas do Komarev
+      - name: Gerar visitas.json
         run: |
           VISITS=$(curl -s "https://komarev.com/ghpvc/?username=fernandosmcode" | tr -d '\n')
           echo "Número de visitas: $VISITS"
@@ -24,13 +34,13 @@ jobs:
             "color": "000000",
             "labelColor": "FFFFFF"
           }
+EOF
 
-      - name: Commit e push
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add visitas.json
-          git commit -m "Atualiza badge de visitas" || echo "Nada para commitar"
-          git push
+      # 3️⃣ Commit e push do JSON
+      - name: Push visitas.json
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output  # ou main, se preferir
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
