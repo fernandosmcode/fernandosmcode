@@ -56,40 +56,43 @@
 <br>
 
 <!-- CONTACT SECTION -->
-<div align="center" style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
-
-  <!-- Gmail -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-    <a href="mailto:fernandosm.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </picture>
-
-  <!-- Discord -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
-    <a href="https://discordapp.com/users/1464646187717103802" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-  </picture>
-
-  <!-- LinkedIn -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </picture>
+<div align="center">
+  
+  <!-- Usando tabela sem bordas para eliminar qualquer separador -->
+  <table>
+    <tr>
+      <td align="center" style="border: none; padding: 0 5px;">
+        <!-- Gmail -->
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+          <a href="mailto:fernandosm.dev@gmail.com" target="_blank">
+            <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+        </picture>
+      </td>
+      <td align="center" style="border: none; padding: 0 5px;">
+        <!-- Discord -->
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" />
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
+          <a href="https://discordapp.com/users/1464646187717103802" target="_blank">
+            <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
+          </a>
+        </picture>
+      </td>
+      <td align="center" style="border: none; padding: 0 5px;">
+        <!-- LinkedIn -->
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+        </picture>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
