@@ -1,8 +1,8 @@
 <!-- HEADER COM GRADIENTE -->
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=000000,000000&height=160&section=header" />
   <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=000000,000000&height=160&section=header" />
+  <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,FFFFFF&height=160&section=header" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,000000&height=160&section=header" width="100%" />
 </picture>
