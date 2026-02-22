@@ -55,8 +55,21 @@
 <details align="center">
   <summary>
     <samp><b>More Info</b></samp>
-  </summary>
+   </summary>
+  
+<br>
 
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
   <br>
 
   <!-- CONTACT SECTION -->
