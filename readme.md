@@ -181,15 +181,7 @@
 ##
 
   <!-- VISUALIZAÇÕES -->
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://img.shields.io/badge/Profile-Fernando-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=24292F" />
-  <img src="https://img.shields.io/badge/Profile-Fernando-FFFFFF?style=flat-square&logo=github&logoColor=24292F" />
-</picture>
-</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=123845" /> </div>
 
 <!-- FOOTER -->
 <picture align="center">
