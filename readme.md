@@ -55,9 +55,9 @@
     <br>
 
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge)](mailto:fernandosm.dev@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge)](https://discordapp.com/users/1464646187717103802)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge)]()
+  [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge)](mailto:fernandosm.dev@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge)](https://discordapp.com/users/1464646187717103802)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge)]()
 
 </details>
 
