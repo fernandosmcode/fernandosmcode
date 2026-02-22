@@ -49,7 +49,7 @@
   </picture>
 </div>
 
-<div align="center">
+<div style="display: flex; justify-content: center; width: 100%;">
   <picture>
     <!-- DARK -->
     <source media="(prefers-color-scheme: dark)"
