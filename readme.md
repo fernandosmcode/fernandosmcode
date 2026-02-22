@@ -59,31 +59,31 @@
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   
   <!-- Gmail -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-    <a href="mailto:fernandosm.dev@gmail.com" target="_blank">
+  <a href="mailto:fernandosm.dev@gmail.com" target="_blank" style="text-decoration: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
       <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </picture>
+    </picture>
+  </a>
 
   <!-- Discord -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
-    <a href="https://discordapp.com/users/1464646187717103802" target="_blank">
+  <a href="https://discordapp.com/users/1464646187717103802" target="_blank" style="text-decoration: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
       <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-  </picture>
+    </picture>
+  </a>
 
   <!-- LinkedIn -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <a href="#" target="_blank">
+  <a href="#" target="_blank" style="text-decoration: none;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </picture>
+    </picture>
+  </a>
 
 </div>
 
