@@ -50,9 +50,15 @@
 </div>
 
 <div align="center">
-  <br>
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandosmcode&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"/>
+  <picture>
+    <!-- DARK -->
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandosmcode&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" />
+    <!-- LIGHT -->
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandosmcode&show_icons=true&bg_color=FFFFFF&title_color=24292F&text_color=24292F&icon_color=24292F&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernandosmcode&show_icons=true" />
+  </picture>
 </div>
 
 ##
