@@ -81,6 +81,9 @@
 
 </div>
 </details>
+
+##
+
   <!-- VISUALIZAÇÕES -->
   <div align="center">
     <img
