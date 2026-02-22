@@ -34,9 +34,7 @@
 
 <details align="center">  
   <summary>
-      <samp>
         <b>More Info</b>
-      </samp>
   </summary>
   
 <br>
