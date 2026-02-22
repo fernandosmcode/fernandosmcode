@@ -159,6 +159,8 @@
 
 <br>
 
+##
+
 <div align="center">
   <samp>
     <b>
@@ -185,8 +187,6 @@
     <img
       src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&color=123845" />
   </div>
-
-##
 
 <!-- FOOTER -->
 <picture align="center">
