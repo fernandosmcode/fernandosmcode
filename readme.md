@@ -182,7 +182,7 @@
 
   <!-- VISUALIZAÇÕES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fernandosmcode&style=for-the-badge&color=00FF00&label=Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&label=Visitas&color=000000&labelColor=FFFFFF" />
 </div>
 
 <!-- FOOTER -->
