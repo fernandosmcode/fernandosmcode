@@ -12,6 +12,8 @@ jobs:
     steps:
       # 1️⃣ Checar o repo
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2️⃣ Autenticar git usando GITHUB_TOKEN
       - name: Configurar git com token
