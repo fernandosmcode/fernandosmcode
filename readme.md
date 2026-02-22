@@ -65,7 +65,7 @@
   <!-- CONTACT SECTION -->
 <div align="center">
 
-<a href=""mailto:fernandosm.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logoColor=000000"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logoColor=white"><img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logoColor=white"></picture></a>
+<a href="mailto:fernandosm.dev@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logoColor=000000"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logoColor=white"><img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logoColor=white"></picture></a>
 <a href="https://discordapp.com/users/1464646187717103802"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logoColor=000000"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logoColor=white"><img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logoColor=white"></picture></a>
 <a href="https://www.linkedin.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logoColor=000000"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logoColor=white"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logoColor=white"></picture></a>
 
