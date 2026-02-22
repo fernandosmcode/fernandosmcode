@@ -73,6 +73,16 @@
 <img src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23FFFFFF" width="40"/>
 <img src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23FFFFFF" width="40"/>
 
+<!-- Skills pretas -->
+<img src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23000000" width="40"/>
+<img src="https://devicon-website.vercel.app/api/kotlin/plain.svg?color=%23000000" width="40"/>
+<img src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%23000000" width="40"/>
+<img src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23000000" width="40"/>
+<img src="https://devicon-website.vercel.app/api/mysql/plain.svg?color=%23000000" width="40"/>
+<img src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23000000" width="40"/>
+<img src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23000000" width="40"/>
+<img src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23000000" width="40"/>
+
 </div>
 
 <!-- MORE INFO -->
