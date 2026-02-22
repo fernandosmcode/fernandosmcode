@@ -1,9 +1,11 @@
+  <div align="center">
   <a href="mailto:fernandosm.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div>
 <!-- HEADER COM GRADIENTE -->
 <picture align="center">
   <!-- DARK -->
