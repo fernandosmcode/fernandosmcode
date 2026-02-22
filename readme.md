@@ -58,10 +58,10 @@
 <!-- CONTACT SECTION -->
 <div align="center">
   
-  <!-- Usando tabela sem bordas para eliminar qualquer separador -->
-  <table>
-    <tr>
-      <td align="center" style="border: none; padding: 0 5px;">
+  <!-- Tabela sem bordas e sem qualquer linha visível -->
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 0 5px; background: none;">
         <!-- Gmail -->
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
@@ -71,7 +71,7 @@
           </a>
         </picture>
       </td>
-      <td align="center" style="border: none; padding: 0 5px;">
+      <td style="border: none; padding: 0 5px; background: none;">
         <!-- Discord -->
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=black" />
@@ -81,7 +81,7 @@
           </a>
         </picture>
       </td>
-      <td align="center" style="border: none; padding: 0 5px;">
+      <td style="border: none; padding: 0 5px; background: none;">
         <!-- LinkedIn -->
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
