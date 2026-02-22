@@ -67,6 +67,7 @@
 <a href="https://www.linkedin.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logoColor=000000"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logoColor=white"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logoColor=white"></picture></a>
 
 </div>
+</details>
   <!-- VISUALIZAÇÕES -->
   <div align="center">
     <img
@@ -98,5 +99,3 @@
     <img
       src="https://raw.githubusercontent.com/fernandosmcode/fernandosmcode/output/github-contribution-grid-snake.svg" />
   </picture>
-
-</details>
