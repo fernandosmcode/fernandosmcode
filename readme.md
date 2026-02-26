@@ -185,7 +185,7 @@
   <picture>
     <!-- DARK -->
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&label=Visitas&color=FFFFFF&labelColor=000000" />
+      srcset="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&label=Visitas&color=000000&labelColor=000000" />
     <!-- LIGHT -->
     <source media="(prefers-color-scheme: light)" 
       srcset="https://komarev.com/ghpvc/?username=fernandosmcode&style=flat-square&label=Visitas&color=000000&labelColor=FFFFFF" />
